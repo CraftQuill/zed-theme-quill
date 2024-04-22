@@ -30,7 +30,7 @@
         "text.muted": "#a8a29e",
         "text.placeholder": "#78716c",
         "text.disabled": "#78716c",
-        "text.accent": "#a78bfa",
+        "text.accent": "#2dd4bfe6",
         "icon": null,
         "icon.muted": null,
         "icon.disabled": null,
@@ -117,9 +117,9 @@
         "ignored": "#78716c",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#2dd4bf",
+        "info": "#2dd4bfe6",
         "info.background": "#292524",
-        "info.border": "#2dd4bf",
+        "info.border": "#2dd4bfe6",
         // "modified": "#06b6d4e6",
         "modified": "#fdba74",
         "modified.background": null,
@@ -141,7 +141,7 @@
         "warning.border": "#fcd34de6",
         "players": [
           {
-            "cursor": "#a78bfa",
+            "cursor": "#2dd4bfe6",
             "selection": "#a855f740"
           }
         ],
@@ -227,7 +227,8 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#f57d3de6",
+            "color": "#2dd4bfe6",
+            // "color": "#f57d3de6",
             // "color": "#f57d3de6",
             // "color": "#c4f471e6",
             "font_style": null,
