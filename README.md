@@ -1,6 +1,6 @@
 <img width="1024" alt="Quill" src="./screenshot.png">
 
-# 🪶 Quill
+# Quill for [Zed](https://zed.dev)
 
 Quill is a soothing theme for [Zed](https://zed.dev) editor. It supports most popular languages out of the box and provides a beautiful, seamless experience.
 
