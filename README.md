@@ -1,4 +1,4 @@
-<img width="1024" alt="Quill" src="./screenshot.png">
+![Screenshot](./screenshot.png)
 
 # Quill for [Zed](https://zed.dev)
 
