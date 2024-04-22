@@ -1,4 +1,4 @@
-<img width="1080" alt="Quill" src="./screenshot.png">
+<img width="1024" alt="Quill" src="./screenshot.png">
 
 # 🪶 Quill
 
