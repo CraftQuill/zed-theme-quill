@@ -1,4 +1,5 @@
-![Screenshot](./screenshot.png)
+![Screenshot Dark](./screenshot-dark.png#gh-dark-mode-only)
+![Screenshot Light](./screenshot-light.png#gh-light-mode-only)
 
 # Quill for [Zed](https://zed.dev)
 
