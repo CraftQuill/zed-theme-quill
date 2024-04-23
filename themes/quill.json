@@ -244,7 +244,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#991b1b",
+            "color": "#fdba74",
             "font_style": null,
             "font_weight": null
           },
@@ -284,7 +284,7 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#50fa7bff",
+            "color": "#f0abfc",
             "font_style": null,
             "font_weight": null
           },
